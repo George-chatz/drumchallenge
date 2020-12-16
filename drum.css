@@ -5,12 +5,26 @@
     background-position: center;
     background-size: cover;
     height: 100%;
-    display: block;
+    image-rendering: auto;
 }
 
 
 .keys {
+    margin: auto;
     display: flex;
-    flex-direction: row;
-     
-}
+    justify-content: space-evenly;
+    padding-top: 30%;
+  }
+
+.keys1 {
+    border-radius: 7px;
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    margin: auto;
+    background-color: grey;
+    color: black;
+    
+  }
