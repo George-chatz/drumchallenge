@@ -1,0 +1,16 @@
+
+.backimage {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp39Gpbz4TrS7z6HRVsKodid6yAZjXpXm1uQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: block;
+}
+
+
+.keys {
+    display: flex;
+    flex-direction: row;
+     
+}
